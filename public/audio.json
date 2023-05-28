@@ -1,0 +1,232 @@
+[
+    {
+        "_id": 1,
+        "title":"১। বদনজর",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/1Ruqyah-EvilEye.mp3?alt=media&token=2ea4c79c-a518-4b25-b9d2-0bc2c327fa6f"
+    },
+    {
+        "_id": 2,
+        "title":"২। বদনজর হাসাদ",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/2Ruqyah-EyeHasad.mp3?alt=media&token=57de43ad-efc1-444f-9522-02649893f544"
+    },
+    {
+        "_id": 3,
+        "title":"৩। সিহর মাস",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/3Ruqyah-Sihr-Mass.mp3?alt=media&token=f4c048da-e988-4903-baa3-166fdcff41bd"
+    },
+    {
+        "_id": 4,
+        "title":"৪। সিহর হিবশি",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/4Ruqyah-Sihr-Hibshi.mp3?alt=media&token=6cf03973-5e20-4fb3-afd2-2830afa8c058"
+    },
+    {
+        "_id": 5,
+        "title":"৫। আয়াতুল হারক",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/5Ruqyah-Harq.mp3?alt=media&token=94a298ab-9a08-44fe-89b9-99e1b26e8702"
+    },
+    {
+        "_id": 6,
+        "title":"৬। আয়াতুল কুরসি",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/6Ruqyah-AyatulKursi.mp3?alt=media&token=ef75c9d5-bdaa-44c7-9bd7-5fe4294f153c"
+    },
+    {
+        "_id": 7,
+        "title":"৭। তিনকুল",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/7Ruqyah-3Kul.mp3?alt=media&token=26315eea-04be-44d9-9d6d-8c80f6e2672f"
+    },
+    {
+        "_id": 8,
+        "title":"৮। আট সুরা",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/8Ruqyah-8surah.mp3?alt=media&token=a48c62d1-9acb-4c58-a146-58e40c18b4a1"
+    },
+    {
+        "_id": 9,
+        "title":"৯। রুকইয়া - দু'আ",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/9Ruqyah-dua.mp3?alt=media&token=3cd38141-4fa0-400e-b86c-2765b140a7ff"
+    },
+    {
+        "_id": 10,
+        "title":"১০। যাদুকরদের প্রতি অভিশাপ",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/10curse-against-magician.mp3?alt=media&token=eecf7738-248b-4278-9225-b488f3b22f70"
+    },
+    {
+        "_id": 11,
+        "title":"১১। শাইখ আস-সুদাইস",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/11As-Sudais.mp3?alt=media&token=6a1dbcb9-c90a-4c9f-b91f-7cfe9297ea9d"
+    },
+    {
+        "_id": 12,
+        "title":"১২। শাইখ হুজাইফি",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/12-Hujaifi.mp3?alt=media&token=d98fa757-d5a6-4cee-96b0-05b2261d5b8b"
+    },
+    {
+        "_id": 13,
+        "title":"১৩। শাইখ আশ-শুরাইম",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/13Shuraim.mp3?alt=media&token=6ca276e8-c7fb-4ffc-8635-1a50068c8b5b"
+    },
+    {
+        "_id": 14,
+        "title":"১৪। সা'দ আল-গামিদী",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/14Ghamidi.mp3?alt=media&token=30cf1187-c103-4ec9-bc6e-fa633f318abc"
+    },
+    {
+        "_id": 15,
+        "title":"১৫। শাইখ আহমাদ আজমি",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/15AhmadAjmy.mp3?alt=media&token=278ae6d8-6991-4365-9509-8d20779d59a6"
+    },
+    {
+        "_id": 16,
+        "title":"১৬। সিদ্দিক আল মিনশাবী",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/16Minshabi.mp3?alt=media&token=b8b4ae80-6f1d-4832-8f7f-8c83705ed993"
+    },
+    {
+        "_id": 17,
+        "title":"১৭। মিশারী রাশেদ আল-আফাসী",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/17Mishary-rashed.mp3?alt=media&token=8fdd213b-e8a4-424c-988e-e875f6817cfb"
+    },
+    {
+        "_id": 18,
+        "title":"১৮। শাইখ মুহাইসিনী",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/18Muhaisini.mp3?alt=media&token=0373c801-ab04-4bf5-80d1-8fef6ee74119"
+    },
+    {
+        "_id": 19,
+        "title":"১৯। শাইখ খালিদ আল হিবশী",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/19KhalidHibshi.mp3?alt=media&token=66698eb6-2686-4aee-bf40-342bb1e150ad"
+    },
+    {
+        "_id": 20,
+        "title":"২০। শাইখ লুহাইদান",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/20Luhaidan.mp3?alt=media&token=284a90f3-5793-4677-9741-aa535fd571d2"
+    },
+    {
+        "_id": 21,
+        "title":"২১। মুফতি জুনাইদের সিডি থেকে",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/21JunaidCD1.mp3?alt=media&token=a1b8794a-ee25-4717-9b87-47283b6f491f"
+    },
+    {
+        "_id": 22,
+        "title":"২২। শাইখ ইদরীস আবকার",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/22IdreesAbkar.mp3?alt=media&token=d7437ea0-b248-41c7-b33f-3b2380040f91"
+    },
+    {
+        "_id": 23,
+        "title":"২৩। শিফা - সাকিনাহ",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/23Shifa-Sakina.mp3?alt=media&token=faa370c4-5f82-46c1-b2bf-f61a79db2cd0"
+    },
+    {
+        "_id": 24,
+        "title":"২৪। আযান রুকইয়াহ (পুনরাবৃত্তি)",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/24Ruqyah-Azan.mp3?alt=media&token=a0c51d77-5176-4525-b2c8-6d35e9a07c4f"
+    },
+    {
+        "_id": 25,
+        "title":"২৫। সুরা বাকারা - শাইখ সুদাইস",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/25Surah-Baqara-by-Sudais.mp3?alt=media&token=47a72289-f77e-4cd7-9297-133a5cf7e0bf"
+    },
+    {
+        "_id": 26,
+        "title":"২৬। সুরা বাকারা - শাইখ হুজাইফি",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/26Surah-Baqara-by-Hujaifi.mp3?alt=media&token=3e177066-0441-45f1-9307-1dc3dfab1e2a"
+    },
+    {
+        "_id": 27,
+        "title":"২৭। সুরা তাগাবুন",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/27SuraTaghabun.mp3?alt=media&token=829d9452-5c1a-4ecb-b11d-7f9957fa1437"
+    },
+    {
+        "_id": 28,
+        "title":"২৮। সুরা যিলযাল থেকে নাস",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/28Sura-Zilzal-to-Nas.mp3?alt=media&token=bba308c8-4856-4ee2-971d-8030b3ac95c9"
+    },
+    {
+        "_id": 29,
+        "title":"২৯। যিনা ফাহিশা বিষয়ক আয়াত (ruqyah zina)",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/29Ruqyah-Zina.mp3?alt=media&token=7c5cbe35-39a7-4ef9-afdf-eeb11b66662c"
+    },
+    {
+        "_id": 30,
+        "title":"৩০। রুকইয়াহ খুরুজ",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/30Ruqyah-Khuruj.mp3?alt=media&token=6a135cf5-e305-4baf-8056-0251c0dbd60d"
+    },
+    {
+        "_id": 31,
+        "title":"৩১। সুরা ফুরকান ২৩ আয়াত (পুনরাবৃত্তি)",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/31Furqan23.mp3?alt=media&token=7ff7ddb8-9ac3-4067-bd49-bf9ec0368536"
+    },
+    {
+        "_id": 32,
+        "title":"৩২। দোয়া রুকইয়াহ - শায়খ ইদরিস আবকার",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/32Dua-by-idrees.mp3?alt=media&token=24eef19a-7cf6-4992-8649-169319fdf6c1"
+    },
+    {
+        "_id": 33,
+        "title":"৩৩। রুকইয়াহ যিনা (short)",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/33Zina-Short-.mp3?alt=media&token=71a8d92a-0ba9-4188-bd6b-ac0653ad4601"
+    },
+    {
+        "_id": 34,
+        "title":"৩৪। রুকইয়াহ খুরুজ (short)",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/34Khuruj-Short.mp3?alt=media&token=30d4f273-4ee7-4b73-9cea-f41c94425abd"
+    },
+    {
+        "_id": 35,
+        "title":"৩৫। আয়াতুল হারক - শাইখ শুরাইম",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/35Harq-Shuraim.mp3?alt=media&token=dc4df5cd-a8af-4e1e-a926-30499dc07af9"
+    },
+    {
+        "_id": 36,
+        "title":"৩৬। আয়াতুল হারক - শাইখ সালেহ (long)",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/36Harq-long.mp3?alt=media&token=33444489-f68b-4229-a3cc-ff91af8f112f"
+    },
+    {
+        "_id": 37,
+        "title":"৩৭। মাজিদ আয-যামিল",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/37MajidZamil.mp3?alt=media&token=2865a6c8-0743-4ea9-aaa5-0bdcb23c900b"
+    },
+    {
+        "_id": 38,
+        "title":"৩৮। খালিদ হিবশির সংক্ষিপ্ত তিলাওয়াত",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/38Hibshi-Mukhtasar.mp3?alt=media&token=37dcde15-809b-4dc7-974c-39c3c41f045c"
+    },
+    {
+        "_id": 39,
+        "title":"৩৯। মুহাম্মাদ আল-হাশিমি",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/39Hashimi.mp3?alt=media&token=e14f0e06-9cc2-4c20-b40a-b42fe9bde400"
+    },
+    {
+        "_id": 40,
+        "title":"৪০। সা'দ আল-গামিদী (long)",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/40ghamidi-long.mp3?alt=media&token=132be55b-374c-4fef-8e42-1292ea1bfbc5"
+    },
+    {
+        "_id": 41,
+        "title":"৪১। ধমকের সুরে তিলাওয়াত (WithForce)",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/41WithStrongForce.mp3?alt=media&token=941e1916-7619-4c45-a267-1ef9e70de225"
+    },
+    {
+        "_id": 42,
+        "title":"৪২। একশবার দোয়া - লা-ইলাহা ইল্লাল্লাহু ওয়াহদাহু",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/42Dua-laa-ilaha-illallahu-wahdahu-100xtime.mp3?alt=media&token=b79ea943-f746-437d-84fd-7e965cff8ab7"
+    },
+    {
+        "_id": 43,
+        "title":"৪৩। আয়াতুস সাকিনা",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/43ayatus-sakinah.mp3?alt=media&token=a42a4ce1-2358-4be7-bf3d-7bb9edf613d3"
+    },
+    {
+        "_id": 44,
+        "title":"৪৪। আয়াতুশ শিফা",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/44ayat-shifa.mp3?alt=media&token=576fca12-003c-4fdd-8e85-f23072829892"
+    },
+    {
+        "_id": 45,
+        "title":"৪৫। রুকইয়াহ ইলম",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/45Ilm%20we%20Hikmah%20%20Khalid%20Al%20Hibshi.mp3?alt=media&token=816c6102-25f0-4f9f-a99d-f791c800d30f"
+    },
+    {
+        "_id": 46,
+        "title":"৪৬। রুকইয়াহ তাদমির - ক্বিতাল",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/46tadmir-qital.mp3?alt=media&token=f6b3ca65-3db7-48e0-8aa5-d010921ed830"
+    }
+]
